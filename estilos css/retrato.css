@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+
+img#temp1img2, img#temp2img2, img#temp3img2, img#temp4img2, img#transformacoes, img#temp6img1,
+ img#sextatemporadaimg3, img#setimatempimg2, img#aventuraimg2, img#transformacoesharmonix{display: none;}
+
+ p{text-align: justify;
+    font-size: 20pt;
+    font-family: 'Nova Mono', monospace;
+}
+
+body{background-image: url(../imagens/fundoestrelaspasteisuniverso.jpeg);}
+
+h1{text-align: center;
+    font-family: 'Sacramento', cursive;
+font-size: 50pt;}
+
+h3{text-align: center;
+    font-family: 'Aboreto', cursive;
+font-size: 20pt;}
+
+legend{font-size: 15pt;}
+
+section#citacao p{font-family: 'Sacramento', cursive;}
+
+img{margin-left: 10px}
+
+img#maisalta, img#maisalta2{margin-left: 70px;}
+img#temp5img1{margin-left: 40px;}
+img#abismo{width: 500px;
+    height: 358px;}
+img#setimatempimg1{width: 520px;
+height: 358px;
+margin-left: 0px;}

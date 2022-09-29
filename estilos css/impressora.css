@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+
+legend{font-family: 'Aboreto', cursive;
+font-size: 20pt;}
+p{font-family: 'Amatic SC', cursive;
+font-size: 20pt;}
+
+h2{font-family: 'Aboreto', cursive;}
+
+img{display: none;}
+
+fieldset{border: 3px dashed black;}

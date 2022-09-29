@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Dancing+Script:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+
+body{background-image: url(../imagens/universomaravilha.jpeg);}
+
+p{font-family: 'Sacramento', cursive;
+font-size: 30pt}
+
+legend{font-family: 'Dancing Script', cursive;
+font-size:40pt;}
+
+h1{text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+font-size: 50pt}
+
+h3{text-align: center;
+    font-family: 'Nova Mono', monospace;
+font-size: 20pt}
+
+section#citacao p{font-family: 'Nova Mono', monospace;}
+
+
+
+img{margin-left:100px;}
+img#maisalta{margin-left:500px;}
+img#temporada4img1{margin-left: 50px;}
+img#maisalta2{margin-left: 15px;}
+img#abismo{margin-left: 400px;}
+img#transformacoes{margin-left: 400px;}
+img#sextatemporadaimg3{margin-left: 425px}
+img#setimatempimg1{margin-left: 35px}
+img#setimatempimg2{margin-left: 10px}
+
+
